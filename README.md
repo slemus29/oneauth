@@ -121,7 +121,7 @@ New user signup
 User profile data of logged in user
 
 #### `/user/{userid}`
-User profie data (only public data) of any user
+User profile data (only public data) of any user
 
 #### `/clients`
 All clients created by currently logged in user
